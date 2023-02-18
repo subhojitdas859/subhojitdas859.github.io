@@ -1,4 +1,4 @@
-###My projects by Subhojit Das
+### My projects by Subhojit Das
 # [PERSONAL FINANCE DATA ANALYSIS](https://subhojitdas859.github.io/MyFi_Analysis_Project/)
 ### Project overview
 - To identify areas where I can save money and make better financial decisions.
