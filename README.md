@@ -1,6 +1,6 @@
 ### My projects by Subhojit Das
 
-# [SALES MANAGEMENT DATA ANALYSIS PROJECT](xx)
+# [SALES MANAGEMENT DATA ANALYSIS PROJECT](https://subhojitdas859.github.io/Sales_Management/)
 
 ### Project overview
 - This project explores different business metrics and how they can be displayed graphically to follow them.
@@ -8,9 +8,9 @@
 - The tools used for this analysis are **SQL and Power BI.**
 - **Impact:** We can obtain conclusions that will help us to make better marketing campaigns for our products and increase overall profits.
 
-You can access the whole project **[HERE](xx)**
+You can access the whole project **[HERE](https://subhojitdas859.github.io/Sales_Management/)**
 
-[![go to project](xx.PNG)](xx)
+[![go to project](Sales_img/1.png)](https://subhojitdas859.github.io/Sales_Management/)
 
 # [MUSIC TREND ANALYSIS - PYTHON](https://subhojitdas859.github.io/Music_Trends_Analysis/)
 ### Project overview
