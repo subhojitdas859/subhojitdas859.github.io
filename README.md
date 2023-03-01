@@ -4,7 +4,7 @@
 
 ### Project overview
 - This project explores different business metrics and how they can be displayed graphically to follow them.
-- I explore the relation between sales, budget, costumers and products.
+- Explored the relation between sales, budget, customers and products.
 - The tools used for this analysis are **SQL and Power BI.**
 - **Impact:** We can obtain conclusions that will help us to make better marketing campaigns for our products and increase overall profits.
 
